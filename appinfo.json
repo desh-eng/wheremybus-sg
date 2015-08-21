@@ -1,0 +1,36 @@
+{
+    "appKeys": {
+        "KEY_BUS_ROUTE": 2,
+        "KEY_BUS_SERVICES": 1,
+        "KEY_BUS_STOPS": 0,
+        "KEY_WAKE_BOOL": 3,
+        "KEY_WAKE_SUMMARY": 4
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "DECK",
+    "longName": "Where My Bus?",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/img_tiny.png",
+                "menuIcon": true,
+                "name": "ICON_28",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "WMB? (v2.10)",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "3df6fcc9-c0c2-409d-ada6-9fbc90293b3c",
+    "versionLabel": "2.10",
+    "watchapp": {
+        "watchface": false
+    }
+}
